@@ -1,7 +1,7 @@
 # random-quote-machine
  Random quote machine using vite, react and typescript. 
 
-## Random Quote Generator App
+## Random Quote Machine
 
 This React application displays random quotes and allows users to change the displayed quote along with its author. It also provides the option to tweet the displayed quote on Twitter.
 
